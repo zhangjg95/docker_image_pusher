@@ -1,1 +1,1 @@
-java:openjdk-8u111-jdk
+--platform=arm64 openjdk:8-jdk-alpine
