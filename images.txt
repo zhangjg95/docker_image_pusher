@@ -1,1 +1,1 @@
---platform=arm64 openjdk:8-jdk-alpine
+--platform=arm64 mysql:8.4
