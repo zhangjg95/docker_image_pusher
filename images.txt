@@ -1,1 +1,1 @@
-openjdk:8
+openjdk:8u372-jdk
